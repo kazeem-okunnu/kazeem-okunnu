@@ -28,5 +28,4 @@
 
 ### 📫 **Connect with me**
 - 💼 [LinkedIn](https://www.linkedin.com/in/kazeem-okunnu-a75ba6291/)
-- 🌐 [Portfolio](https://yourportfolio.site)
 - 🧠 [GitHub Projects](https://github.com/kazeem-okunnu)
