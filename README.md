@@ -7,7 +7,7 @@
 
 🚀 I’ve built a range of projects including:
 - **AI PDF Reader** – A full-stack AI-powered tool for reading and Interacting with PDFs  
-- **AI Newsletter Creator** – Automates newsletter generation with OpenAI APIs  
+- **AI Newsletter Creator** – Automates newsletter generation with GeminiAI APIs  
 - **Room Booking App** – Airbnb-inspired platform for listings and reservations  
 - **Chat App** – Real-time messaging app built with React and Appwrite  
 - **Movie Search App** – Dynamic movie search using an external API  
