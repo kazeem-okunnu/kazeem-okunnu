@@ -3,7 +3,7 @@
 🎓 I’m a second-year student completing a Level 3 Extended Diploma in Creative Media (Digital Multimedia) and a self-taught software developer passionate about building real-world applications.
 
 💡 I’ve completed **Harvard CS50x** and **freeCodeCamp** certifications in web development, JavaScript, and Python, gaining hands-on experience with:
-`C`, `Python`, `SQL`, `JavaScript`, `React.js`, `Next.js`, and `Tailwind CSS`.
+ `Python`, `SQL`, `JavaScript`, `React.js`, `Next.js`, and `Tailwind CSS`.
 
 🚀 I’ve built a range of projects including:
 - **AI PDF Reader** – A full-stack AI-powered tool for reading and Interacting with PDFs  
